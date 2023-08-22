@@ -1,0 +1,11 @@
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*~
+code/output/**/*
+.DS_Store
+detectron2/**/*
+image.jpg
+image2.jpg
+image3.jpg
