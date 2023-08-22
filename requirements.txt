@@ -1,0 +1,5 @@
+click
+torch
+torchvision
+detectron2
+opencv-python
